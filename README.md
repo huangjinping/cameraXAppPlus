@@ -1,2 +1,0 @@
-# cameraXAppPlus
-cameraXAppPlus
